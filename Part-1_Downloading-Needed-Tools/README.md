@@ -1,3 +1,7 @@
+# Installing tools needed for email analysis
+
+## Steps
+
 Notepad++:
 
 	- This is a free and powerful text/code editor for Windows. It's more advanced than the regular Notepad app and is way more useful for programming, scripting, or editing config files.
